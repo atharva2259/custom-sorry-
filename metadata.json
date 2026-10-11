@@ -1,0 +1,6 @@
+{
+  "name": "Heartfelt - Apology Website Builder & Promise Bond",
+  "description": "Create customizable, responsive apology websites for your loved one with drag-and-drop layout blocks, heartfelt message templates, custom cards, and a solemn promise contract bond sendable via email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
